@@ -1,0 +1,19 @@
+{
+  "name": "khanakhazana-backend",
+  "version": "1.0.0",
+  "description": "This is backenf for my react khana-khazana app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "KhanaKhazana",
+    "FoodApp",
+    "Orderonline"
+  ],
+  "author": "Abhishek Patel",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.3"
+  }
+}
